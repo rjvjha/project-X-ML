@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "544794311562",
+    "firebase_url": "https://camerax-mlkit.firebaseio.com",
+    "project_id": "camerax-mlkit",
+    "storage_bucket": "camerax-mlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544794311562:android:38edd45a7ce78ab1",
+        "android_client_info": {
+          "package_name": "com.example.rajeevjha.camerax_mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544794311562-pde8l5pvui3mjui8lnhlllbs1bu7qnna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz_AW780ZYc4HNTozoCH459CaCK3WDpbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544794311562-pde8l5pvui3mjui8lnhlllbs1bu7qnna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
